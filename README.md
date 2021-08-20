@@ -42,7 +42,7 @@ A two degree of freedom robot arm is described in the Figure below which consist
 </p>
 
 <p align="center">
-<b>The Realization or the Robot drawing a circle r=0.1m</b>
+<b>The Realization of the Arm Robot drawing a circle r=0.1m</b>
 </p>
 
 												
