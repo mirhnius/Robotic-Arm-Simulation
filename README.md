@@ -35,3 +35,12 @@ The proportional-integral-derivative (PID) control has simple structure for its 
 <p align="center">
 <b>The Simulated two DOF Robotic Arm</b>
 </p>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40741680/130280263-850a995f-2b10-4fb8-a7ad-82df987d9774.jpg" width="900" height="500">
+</p>
+
+<p align="center">
+<b>The Realization or the Robot drawing a circle r=0.1m</b>
+</p>
