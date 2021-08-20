@@ -15,9 +15,9 @@ A two degree of freedom robot arm is described in the Figure below which consist
 
 
 ## Arm Robot Control
-### PID Controller
-The proportional-integral-derivative (PID) control has simple structure for its three gains. The control performances are acceptable in the most of industrial processes. Most robot manipulators found in industrial operations are controlled by PID algorithms independently at each joint. There are many control techniques used for controlling the robot arm. The most familiar control techniques are the PID control, adaptive control, optimal control and robust control. As the final goal is to design and manufacturing real robots, it's helpful doing the simulation before the investigations with real robots, to enhance the final real robot performance and behavior.
-### Simulink Simluation
+* ### PID Controller
+	The proportional-integral-derivative (PID) control has simple structure for its three gains. The control performances are acceptable in the most of industrial processes. Most robot manipulators found in industrial operations are controlled by PID algorithms independently at each joint. There are many control techniques used for controlling the robot arm. The most familiar control techniques are the PID control, adaptive control, optimal control and robust control. As the final goal is to design and manufacturing real robots, it's helpful doing the simulation before the investigations with real robots, to enhance the final real robot performance and behavior.
+* ### Simulink Simluation
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/130277780-2fea0ddd-e791-4dbd-bab2-559cad0b9a8f.png" width="900" height="400">
